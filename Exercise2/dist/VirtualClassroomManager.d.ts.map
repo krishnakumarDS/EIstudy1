@@ -1,0 +1,1 @@
+{"version":3,"file":"VirtualClassroomManager.d.ts","sourceRoot":"","sources":["../src/VirtualClassroomManager.ts"],"names":[],"mappings":"AAOA,qBAAa,uBAAuB;IAClC,OAAO,CAAC,mBAAmB,CAAsB;IACjD,OAAO,CAAC,iBAAiB,CAAoB;IAC7C,OAAO,CAAC,oBAAoB,CAAuB;IACnD,OAAO,CAAC,MAAM,CAAU;IACxB,OAAO,CAAC,YAAY,CAAe;;IAUnC,cAAc,CAAC,OAAO,EAAE,MAAM,GAAG,MAAM;IA2FvC,OAAO,CAAC,WAAW;CAwBpB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ClassroomController.d.ts","sourceRoot":"","sources":["../../src/controllers/ClassroomController.ts"],"names":[],"mappings":"AAKA,qBAAa,mBAAmB;IAC9B,OAAO,CAAC,gBAAgB,CAAoB;IAC5C,OAAO,CAAC,MAAM,CAAU;;IAOxB,YAAY,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM;IAUlC,cAAc,IAAI,MAAM;IAqBxB,eAAe,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM;CAetC"}

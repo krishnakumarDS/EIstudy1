@@ -1,0 +1,33 @@
+virtual-classroom-manager/
+├── src/
+│   ├── controllers/
+│   │   ├── ClassroomController.ts
+│   │   ├── StudentController.ts
+│   │   └── AssignmentController.ts
+│   ├── models/
+│   │   ├── Classroom.ts
+│   │   ├── Student.ts
+│   │   ├── Assignment.ts
+│   │   └── Submission.ts
+│   ├── services/
+│   │   ├── ClassroomService.ts
+│   │   ├── StudentService.ts
+│   │   └── AssignmentService.ts
+│   ├── utils/
+│   │   ├── Logger.ts
+│   │   └── ErrorHandler.ts
+│   ├── repositories/
+│   │   ├── ClassroomRepository.ts
+│   │   ├── StudentRepository.ts
+│   │   └── AssignmentRepository.ts
+│   ├── interfaces/
+│   │   ├── IClassroomService.ts
+│   │   ├── IStudentService.ts
+│   │   ├── IAssignmentService.ts
+│   │   ├── IRepository.ts
+│   │   └── ILogger.ts
+│   ├── main.ts
+│   └── VirtualClassroomManager.ts
+├── package.json
+├── tsconfig.json
+└── README.md
